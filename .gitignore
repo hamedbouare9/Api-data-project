@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.idea
+MongoDb/*
+venv
+__pycache__/*
+*.cfg
+Lib
+Scripts
+utils/__pycache__/*
+*.log
+unittest/__pycache__/*
